@@ -202,8 +202,7 @@ footer{
     background-color: #202023;
     display: flex;
     height: 100px;
-    flex:60% 40%;
-    justify-content: flex-start;
+    justify-content: space-between;
     padding: 30px;
 }
 footer p{
